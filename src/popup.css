@@ -1,0 +1,95 @@
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+button {
+  width: 100%;
+}
+
+#result {
+  margin-top: 10px;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+}
+#search-query {
+  border: none;
+  width: 100%;
+  font-size: 1rem;
+  padding: 12px;
+  margin-right: 10px;
+}
+button[type="submit"] {
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 12px;
+}
+button[type="submit"]:hover svg {
+  stroke: #000;
+}
+svg {
+  display: block;
+  height: 16px;
+  width: 16px;
+  stroke: #ccc;
+  stroke-width: 2;
+  transition: stroke 0.2s;
+}
+/* Style for pagination */
+#search-pagination {
+  margin-top: 20px;
+  text-align: center;
+  max-width: 700px;
+  max-height: 200px;
+}
+
+/* Set a dark background color for the body */
+body {
+  width: 200px;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
+
+/* Use lighter text color for inputs and buttons */
+input,
+button {
+  color: #000;
+}
+
+/* Set a dark background for the search box */
+.search-box {
+    display: flex;
+    flex-direction: column; /* Change to column layout */
+    align-items: center;
+    background-color: #444; /* Darker background color */
+    border: 1px solid #333; /* Dark border color */
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+/* Update other styles as needed for dark mode */
+
+/* Example: Change the stroke color of the SVG icon */
+button[type="submit"]:hover svg {
+  stroke: #fff; /* Lighter stroke color on hover */
+}
