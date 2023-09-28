@@ -16,7 +16,7 @@ Stay informed with real-time search results that bring you the latest cybersecur
 
 ## How to Use:
 
-Install the "Search SimeonOnSecurity" extension from the Firefox Add-ons Store.
+Install the "Search SimeonOnSecurity" extension from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/search-simeononsecurity/).
 Once installed, the extension icon will appear in your Firefox toolbar.
 Click on the extension icon to open the search interface.
 Enter your desired search query and press the search button.
