@@ -1,5 +1,5 @@
 # sosfirefox
-The "Search SimeonOnSecurity" extension is your gateway to seamlessly access and explore the wealth of knowledge and insights hosted on the SimeonOnSecurity website, directly from your Firefox browser.
+The ["Search SimeonOnSecurity" extension](https://addons.mozilla.org/en-US/firefox/addon/search-simeononsecurity) is your gateway to seamlessly access and explore the wealth of knowledge and insights hosted on the SimeonOnSecurity website, directly from your Firefox browser.
 
 ## Key Features:
 
